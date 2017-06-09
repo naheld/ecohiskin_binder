@@ -1,0 +1,8 @@
+pandas
+matplotlib
+collections
+math
+numpy
+six.moves
+bokeh
+sklearn
