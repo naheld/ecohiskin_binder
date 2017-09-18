@@ -1,6 +1,5 @@
 pandas
 matplotlib
-collections
 math
 six
 bokeh
