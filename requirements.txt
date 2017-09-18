@@ -2,7 +2,5 @@ pandas
 matplotlib
 collections
 math
-numpy
-six.moves
+six
 bokeh
-sklearn
